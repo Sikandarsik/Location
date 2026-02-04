@@ -8,7 +8,7 @@ Original file is located at
 """
 
 # Install dependencies
-!pip install phonenumbers requests
+
 
 import phonenumbers
 from phonenumbers import geocoder
