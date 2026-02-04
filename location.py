@@ -56,6 +56,6 @@ def get_sim_location(phone_number):
         return {'error': str(e)}
 
 # Example usage
-phone_number = "+919914236908"  # Replace with actual number
+phone_number = "+917009546709"  # Replace with actual number
 location_info = get_sim_location(phone_number)
 print(location_info)
